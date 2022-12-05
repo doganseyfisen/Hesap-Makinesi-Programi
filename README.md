@@ -1,5 +1,4 @@
 # Hesap-Makinesi-Programi
-Hesap Makinesi Programi
 
 ## Java Programlama Dilinde Hesap Makinesi Programi
 
