@@ -7,3 +7,6 @@ Programa aşağıdaki bağlantıdan ulaşabilirsiniz.
 ```
 https://github.com/doganseyfisen/Hesap-Makinesi-Programi/blob/main/hesapmakinesi.java
 ```
+```
+https://github.com/doganseyfisen/Hesap-Makinesi-Programi/blob/main/gelismishesapmakinesi.java
+```
